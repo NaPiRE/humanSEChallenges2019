@@ -1,0 +1,308 @@
+id
+	ID of the response.
+Source
+	Platform = Collected via survey exchange platforms
+	Internal = Collected via internal networks (QualityMinds GmbH, colleagues in different firms)
+	External = Collected via LinkedIn, Xing, Twitter
+GENDER
+	Respondent was asked which pronoun they prefer for the PVQ-RR.
+COUNTRY
+	Country the respondent worked in.
+COUNTRYTIME
+	Years the respondent had worked in the country.
+NATION
+	Nationality of the respondent.
+TEAM
+	Number of people in the team.
+TEAMNATIONS
+
+	Nations present in the team.
+VTEAM[SQ001]
+	Whether the respondent was part of an offshore team.
+VTEAM[SQ002]
+	Whether the respondent worked with offshore teams.
+VTEAM[SQ003]
+	Whether the respondent regularily worked from remote.
+VTEAM[SQ004]
+	Whether the respondent's team members were geographically dispersed.
+VTEAM[SQ005]
+	Whether the respondent's team regularily collaborated using digital communication technology.
+VTEAM[SQ006]
+	Whether the respondent's team was occasionally recomposed.
+
+ROLE
+	Primary role of the respondent in the team.
+ROLE[comment]
+	Free text if the above ROLE selection did not accurately describe the role.
+CUSTOMERS
+	Whether the respondent had any direct contact with clients.
+VALUES(X)[SQ00(Y)]
+	Responses to the PVQ-RR (10/2013).
+	(X) = M refers to the male version. Y refers to the female version.
+	(Y) corresponds to the index of the question of the PVQ-RR (10/2013).
+
+FREQTEAM[SQ001]
+	Frequency of "Lack of experience"
+	Context was "Problems within the team"
+	Frequency could be answered in 5 steps: "Never", "Rarely", "Sometimes", "Often", "Very often"
+FREQTEAM[SQ002]
+	Frequency of "Lack of qualification"
+FREQTEAM[SQ003]
+	Frequency of "Lack of teamwork skills"
+FREQTEAM[SQ004]
+	Frequency of "Lack of leadership"
+FREQTEAM[SQ005]
+	Frequency of "Communication plan is neglected"
+FREQTEAM[SQ006]
+	Frequency of "Business needs are neglected"
+FREQTEAM[SQ007]
+	Frequency of "Demotivation"
+FREQTEAM[SQ008]
+	Frequency of "Gold plating"
+FREQTEAM[SQ009]
+	Frequency of "Missing willingness to adapt to new software"
+FREQTEAM[SQ010]
+	Frequency of "Missing willingness to adapt to new infrastructure"
+FREQTEAM[SQ011]
+	Frequency of "Missing willingness to adapt to new processes"
+FREQTEAM[SQ012]
+	Frequency of "Insufficient collaboration"
+FREQTEAM[SQ013]
+	Frequency of "Insufficient analysis at the beginning of a task"
+FREQTEAM[SQ014]
+	Frequency of "Subjective interpretations of tasks"
+FREQTEAM[SQ015]
+	Frequency of "Work is not solution-oriented"
+FREQTEAM[SQ016]
+	Frequency of "Language barriers"
+FREQTEAM[SQ017]
+	Frequency of "Conflicts of interests at management level"
+FREQTEAM[SQ018]
+	Frequency of "Missing documentation of the project"
+FREQTEAM[SQ019]
+	Frequency of "Information is not made known to the team"
+FREQTEAM[SQ020]
+	Frequency of "Misunderstandings in communication"
+FREQTEAM[SQ021]
+	Frequency of "Certain people dominating discussions"
+FREQTEAM[SQ022]
+	Frequency of "Missing respect in the workplace"
+FREQTEAM[SQ023]
+	Frequency of "Missing acceptance of alternative lifestyles"
+FREQTEAM[SQ024]
+	Frequency of "Harassment"
+FREQTEAM[SQ025]
+	Frequency of "Slow decision making"
+FREQTEAM[SQ026]
+	Frequency of "Conflicting working styles"
+FREQTEAM[SQ027]
+	Frequency of "People getting angry in discussions"
+FREQTEAM[SQ028]
+	Frequency of "People crying in discussions"
+FREQTEAM[SQ029]
+	Frequency of "Frequently changing team members"
+FREQTEAM[SQ030]
+	Frequency of "People not reporting problems in time"
+FREQTEAM[SQ031]
+	Frequency of "Over-Confidence"
+FREQTEAM[SQ032]
+	Frequency of "Pressure from customer forwarded to SE team"
+FREQTEAM[SQ033]
+	Frequency of "Exaggerated seeking of project problems"
+
+FREQCLIENT[SQ001]
+	Frequency of "Lack of communication"
+	Context was "Problems between teams and clients" - This question block was only displayed if respondents answered that they had direct contact with clients.
+	Frequency could be answered in 5 steps: "Never", "Rarely", "Sometimes", "Often", "Very often"
+FREQCLIENT[SQ002]
+	Frequency of "Client does not know what they want"
+FREQCLIENT[SQ003]
+	Frequency of "Lack of interest in the project by the client"
+FREQCLIENT[SQ004]
+	Frequency of "Missing IT project experience at client side"
+FREQCLIENT[SQ005]
+	Frequency of "Missing technical knowledge at client side"
+FREQCLIENT[SQ006]
+	Frequency of "Exaggerated quality expectation of the client"
+FREQCLIENT[SQ007]
+	Frequency of "Conflicts of interests at client side"
+FREQCLIENT[SQ008]
+	Frequency of "Client unable to specify functional requirements"
+FREQCLIENT[SQ009]
+	Frequency of "Client unable to specify non-functional reqs"
+FREQCLIENT[SQ010]
+	Frequency of "Unclear roles and responsibilities at client side"
+FREQCLIENT[SQ011]
+	Frequency of "Lack of prioritization by client"
+FREQCLIENT[SQ012]
+	Frequency of "Weak management at client side"
+FREQCLIENT[SQ013]
+	Frequency of "Insufficient collaboration"
+FREQCLIENT[SQ014]
+	Frequency of "Insufficient analysis at the beginning of the project"
+FREQCLIENT[SQ015]
+	Frequency of "No direct communication with client"
+FREQCLIENT[SQ016]
+	Frequency of "Communication plan is neglected"
+FREQCLIENT[SQ017]
+	Frequency of "Subjective interpretations of tasks"
+FREQCLIENT[SQ018]
+	Frequency of "Work is not solution-oriented"
+FREQCLIENT[SQ019]
+	Frequency of "Language barriers"
+FREQCLIENT[SQ020]
+	Frequency of "Misinterpretations"
+FREQCLIENT[SQ021]
+	Frequency of "Missing respect towards the client from the team"
+FREQCLIENT[SQ022]
+	Frequency of "Missing respect towards the team from the client"
+FREQCLIENT[SQ023]
+	Frequency of "Delays due to dependencies to client’s third parties"
+FREQCLIENT[SQ024]
+	Frequency of "People not reporting problems in time"
+FREQCLIENT[SQ025]
+	Frequency of "Over-Confidence"
+FREQCLIENT[SQ026]
+	Frequency of "Communication of problems to client restricted"
+FREQCLIENT[SQ027]
+	Frequency of "Exaggerated seeking of project problems"
+
+TEAMCRIT[SQ001]
+	Criticality of "Lack of experience"
+	Criticality was only asked about when the problem occured more often than "Never".
+	Context was "Problems within the team"
+	Criticality (Impact of the problem on project success) could be answered in 4 steps: "Not problematic", "Little problematic", "Problematic", "Highly problematic"
+TEAMCRIT[SQ002]
+	Criticality of "Lack of qualification"
+TEAMCRIT[SQ003]
+	Criticality of "Lack of teamwork skills"
+TEAMCRIT[SQ004]
+	Criticality of "Lack of leadership"
+TEAMCRIT[SQ005]
+	Criticality of "Communication plan is neglected"
+TEAMCRIT[SQ006]
+	Criticality of "Business needs are neglected"
+TEAMCRIT[SQ007]
+	Criticality of "Demotivation"
+TEAMCRIT[SQ008]
+	Criticality of "Gold plating"
+TEAMCRIT[SQ009]
+	Criticality of "Missing willingness to adapt to new software"
+TEAMCRIT[SQ010]
+	Criticality of "Missing willingness to adapt to new infrastructure"
+TEAMCRIT[SQ011]
+	Criticality of "Missing willingness to adapt to new processes"
+TEAMCRIT[SQ012]
+	Criticality of "Insufficient collaboration"
+TEAMCRIT[SQ013]
+	Criticality of "Insufficient analysis at the beginning of a task"
+TEAMCRIT[SQ014]
+	Criticality of "Subjective interpretations of tasks"
+TEAMCRIT[SQ015]
+	Criticality of "Work is not solution-oriented"
+TEAMCRIT[SQ016]
+	Criticality of "Language barriers"
+TEAMCRIT[SQ017]
+	Criticality of "Conflicts of interests at management level"
+TEAMCRIT[SQ018]
+	Criticality of "Missing documentation of the project"
+TEAMCRIT[SQ019]
+	Criticality of "Information is not made known to the team"
+TEAMCRIT[SQ020]
+	Criticality of "Misunderstandings in communication"
+TEAMCRIT[SQ021]
+	Criticality of "Certain people dominating discussions"
+TEAMCRIT[SQ022]
+	Criticality of "Missing respect in the workplace"
+TEAMCRIT[SQ023]
+	Criticality of "Missing acceptance of alternative lifestyles"
+TEAMCRIT[SQ024]
+	Criticality of "Harassment"
+TEAMCRIT[SQ025]
+	Criticality of "Slow decision making"
+TEAMCRIT[SQ026]
+	Criticality of "Conflicting working styles"
+TEAMCRIT[SQ027]
+	Criticality of "People getting angry in discussions"
+TEAMCRIT[SQ028]
+	Criticality of "People crying in discussions"
+TEAMCRIT[SQ029]
+	Criticality of "Frequently changing team members"
+TEAMCRIT[SQ030]
+	Criticality of "People not reporting problems in time"
+TEAMCRIT[SQ031]
+	Criticality of "Over-Confidence"
+TEAMCRIT[SQ032]
+	Criticality of "Pressure from customer forwarded to SE team"
+TEAMCRIT[SQ033]
+	Criticality of "Exaggerated seeking of project problems"
+
+CLIENTCRIT[SQ001]
+	Criticality of "Lack of communication"
+	Criticality was only asked about when the problem occured more often than "Never".	
+	Context was "Problems between teams and clients" - This question block was only displayed if respondents answered that they had direct contact with clients.
+	Criticality (Impact of the problem on project success) could be answered in 4 steps: "Not problematic", "Little problematic", "Problematic", "Highly problematic"
+CLIENTCRIT[SQ002]
+	Criticality of "Client does not know what they want"
+CLIENTCRIT[SQ003]
+	Criticality of "Lack of interest in the project by the client"
+CLIENTCRIT[SQ004]
+	Criticality of "Missing IT project experience at client side"
+CLIENTCRIT[SQ005]
+	Criticality of "Missing technical knowledge at client side"
+CLIENTCRIT[SQ006]
+	Criticality of "Exaggerated quality expectation of the client"
+CLIENTCRIT[SQ007]
+	Criticality of "Conflicts of interests at client side"
+CLIENTCRIT[SQ008]
+	Criticality of "Client unable to specify functional requirements"
+CLIENTCRIT[SQ009]
+	Criticality of "Client unable to specify non-functional reqs"
+CLIENTCRIT[SQ010]
+	Criticality of "Unclear roles and responsibilities at client side"
+CLIENTCRIT[SQ011]
+	Criticality of "Lack of prioritization by client"
+CLIENTCRIT[SQ012]
+	Criticality of "Weak management at client side"
+CLIENTCRIT[SQ013]
+	Criticality of "Insufficient collaboration"
+CLIENTCRIT[SQ014]
+	Criticality of "Insufficient analysis at the beginning of the project"
+CLIENTCRIT[SQ015]
+	Criticality of "No direct communication with client"
+CLIENTCRIT[SQ016]
+	Criticality of "Communication plan is neglected"
+CLIENTCRIT[SQ017]
+	Criticality of "Subjective interpretations of tasks"
+CLIENTCRIT[SQ018]
+	Criticality of "Work is not solution-oriented"
+CLIENTCRIT[SQ019]
+	Criticality of "Language barriers"
+CLIENTCRIT[SQ020]
+	Criticality of "Misinterpretations"
+CLIENTCRIT[SQ021]
+	Criticality of "Missing respect towards the client from the team"
+CLIENTCRIT[SQ022]
+	Criticality of "Missing respect towards the team from the client"
+CLIENTCRIT[SQ023]
+	Criticality of "Delays due to dependencies to client’s third parties"
+CLIENTCRIT[SQ024]
+	Criticality of "People not reporting problems in time"
+CLIENTCRIT[SQ025]
+	Criticality of "Over-Confidence"
+CLIENTCRIT[SQ026]
+	Criticality of "Communication of problems to client restricted"
+CLIENTCRIT[SQ027]
+	Criticality of "Exaggerated seeking of project problems"
+
+MITIGATIONS[SQ00(X)]
+	Yes/No about whether mitigations were in place to counter the problem, with X referring to the index of the corresponding team problem.
+MITIMEASURES[SQ001]
+	Free-Text about what kind of mitigations were in place to counter the problem, with X referring to the index of the corresponding team problem. Only asked if MITIGATIONS[SQ00(X)] was answered with "Yes".
+
+ADDTEAM
+	Free-text to mention additional team problems that were not mentioned in the survey
+ADDCLIENT
+	Free-text to mention additional client problems that were not mentioned in the survey
+FEEDBACK
+	Free-text to report general feedback about the survey
