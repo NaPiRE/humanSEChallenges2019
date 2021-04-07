@@ -1,0 +1,40 @@
+*Changes made to the initial challenge set*
+This is a list of changes that were made to the initial challenges to create the refined problem set, based on feedback in the survey.
+
+The following challenges were removed:
+    --  T3 "Lack of teamwork skills", because it was too vague and subject to interpretation.
+    --  T4 "Lack of leadership", because it was too vague and could express itself in many ways. The challenges "Lack of mentors", "Lack of mediation in conflict cases", "Demotivation" etc represent the many effects in a more fine-grained manner.
+    --  T12 "Insufficient collaboration", because it was too vague.
+    --  T17 "Conflicts of interest at management level" because it is too vague, and depending on the interpretation, too close to "Work is not solution-oriented", "Harassment" or "Destructive competition".
+    --  T18 "Missing documentation of the project" - not enough of a human challenge. Underlying causes better described with challenges such as T7, T15, T26.
+    --  T19 "Information is not made known to the team" - too vague as the challenge depends on who the actor is. It could be missing documentation, bad team coherence, or bad leadership.
+    --  T26 "Conflicting working styles" because it was too vague.
+    --  T28 "People crying in discussions" removed because it was not seen as relevant in the survey.
+
+The following challenges were grouped into a single challenge as they were too close in their meaning:
+    --  T6, T25 and T33 merged with T15 "Work is not solution-oriented"
+    --  T9, T10, and T11 were merged into one single challenge: "Reluctance to change working habits"
+    --  T16 "Language barriers" merged with T20 "Misunderstandings in communication"
+    --  T23 "Missing acceptance of alternative lifestyles" merged with T24 "Harassment"
+    --  T27 "People getting angry in discussions" merged with new challenge "Aggressive Discussion Styles"
+
+The following challenges were refined in their wording:
+    --  "Communication plan is neglected" reworded to "Team is not kept up-to-date", as the "plan" specialization is overly specific and other communication issues are better covered by other challenges (such as "Discussions are not solution-oriented").
+    --  "Insufficient analysis at the beginning of the task" reworded to "Tasks insufficiently analyzed", to focus more on the actual challenge and remove the temporal component.
+    --  "Subjective interpretation of tasks" reworded to "Task is not well defined or explained".
+    --  "Misunderstandings in communication" reworded to "Misunderstandings" as it should also cover documentation and anything conveyed via words.
+    --  "Certain people dominating discussions" reworded to "Aggressive Discussion Styles" to cover more general discussion issues caused by forceful or aggressive behaviour.
+    --  "Missing respect in the workplace" reworded to "Missing appreciation" to distance it from "Harassment" and cover a new aspect.
+    --  T32 "Pressure from client forwarded to SE team" generalised to any kind of "Pressure".
+
+The following challenges were added based on feedback from the survey:
+    --  Different communication preferences
+    --  Destructive Competition
+    --  Lack of Empathy
+    --  Negativity
+    --  Lack of mentors
+    --  Lack of mediation in conflicts
+    --  Bad Work-Life-Balance
+    --  Lack of Confidence
+    --  Missing team cohesion
+    --  Different needs of staff not respected
